@@ -1,0 +1,6 @@
+BASEPATH="/home/wangyu/webspy/"
+URL="http://store.apple.com/us/buy-ipad/ipad-mini-retina"
+TERM="currently unavailable"
+MESG="iPad%20mini%20Retina%20is%20in%20stock."
+TEL="YOUR_PHONE_NUMBER"
+APIKEY="YOUR_API_KEY"
